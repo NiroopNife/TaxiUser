@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Gradle: com.digits.sdk.android:digits:1.10.0@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.android/build-cache/a7db56c27403c6a433571fabce8fc925c7139b2b/output/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.android/build-cache/a7db56c27403c6a433571fabce8fc925c7139b2b/output/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

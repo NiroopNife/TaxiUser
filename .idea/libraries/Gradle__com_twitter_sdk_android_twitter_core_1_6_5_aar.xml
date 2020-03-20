@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Gradle: com.twitter.sdk.android:twitter-core:1.6.5@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.android/build-cache/b1132a1fe188c04d77e28d1f65b28c5c9068da9c/output/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.android/build-cache/b1132a1fe188c04d77e28d1f65b28c5c9068da9c/output/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
